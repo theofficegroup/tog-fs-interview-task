@@ -22,8 +22,8 @@ You don't need to produce any code at this stage, but please detail:
 
 * endpoints that will be created and the data they will return
 * the mechanism you would use for authentication (e.g. a software solution, or a solution that leverages cloud services)
-* which database would be suitable (e.g. PostgreSQL/MongoDB etc.) and how it would be structured (for example, would you have separate tables for venue and event information?)
-* the cloud services and infrastructure required to deploy and support the API
+* which database would be suitable and how it could be structured
+* how you might support and monitor the API
 * CI/CD processes
 
 Even though TOG uses Azure, feel free to choose whichever cloud service, version control service and CI/CD platform you fancy for this task, we're mainly interested in seeing how you approach the design.
