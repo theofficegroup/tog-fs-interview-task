@@ -17,13 +17,7 @@ A Node Express API will be created to provide data for the site. The deployed AP
 
 ## Task
 
-You don't need to produce any code for this task. The objective is to proudce a plan - rather than impliment a solution - for us to discuss in the interview.
-
-Some things to consider:
-
-* how the front-end team & back-end team will collaborate in an agile manner
-* handling of payments needs to be PCI compliant
-* how do we ensure adequate test coverage
+You don't need to produce any code for this task. Please also don't spend any more than 3 hours on this task. The objective is to produce a high level plan - rather than implement a solution - for us to discuss in the interview.
 
 Please provide a design for the API and the cloud infrastructure where it will be deployed.
 
@@ -35,6 +29,12 @@ How you present your approach is completely up to you, but please detail:
 * which database would be suitable and how it could be structured
 * how you might support and monitor the API
 * CI/CD processes
+
+Some things to consider:
+
+* how the front-end team & back-end team will collaborate in an agile manner
+* handling of payments needs to be PCI compliant
+* how do we ensure adequate test coverage
 
 Even though TOG uses Azure, feel free to choose whichever cloud service, version control service and CI/CD platform you fancy for this task, we're mainly interested in seeing your approach.
 
