@@ -17,7 +17,7 @@ A Node Express API will be created to provide data for the site. The deployed AP
 
 ## Task
 
-You don't need to produce any code for this task. Please also don't spend any more than 3 hours on this task. The objective is to produce a high level plan - rather than implement a solution - for us to discuss in the interview.
+You don't need to produce any code for this task. Please also only spend ~3 hours of your time. The objective is to produce a high level plan - rather than implement a solution - for us to discuss in the interview.
 
 Please provide a design for the API and the cloud infrastructure where it will be deployed.
 
