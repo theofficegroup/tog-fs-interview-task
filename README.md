@@ -30,14 +30,25 @@ How you present your approach is completely up to you, but please detail:
 * how you might support and monitor the API
 * CI/CD processes
 
-Some things to consider:
-
-* how the front-end team & back-end team will collaborate in an agile manner
-* handling of payments needs to be PCI compliant
-* how do we ensure adequate test coverage
-
 Even though TOG uses Azure, feel free to choose whichever cloud service, version control service and CI/CD platform you fancy for this task, we're mainly interested in seeing your approach.
 
 Similarly, you can present the API and infrastructure design via diagrams, written explanations etc., whatever you feel most comfortable with is absolutely fine.
 
 Please send a zip file containing your design and any supporting assets, and/or provide links to any online sites or tools you're using to host content.
+
+## Interview
+
+We'll use the task as the basis of the next interview, hopefully it will feel more like a discussion following this loose structure:
+
+* 15-30 mins walk through of your design
+* 15-30 mins follow up questions and discussion
+* 15 mins any questions for us
+* 15 mins meet the rest of the team
+
+Please done worry about documenting the below, but some of the topics we may discuss are:
+
+* how the front-end team & back-end team will collaborate in an agile manner
+* ensuring the handling of payments is PCI compliant
+* how do we ensure adequate test coverage
+
+Good luck and look forward to catching up soon.
