@@ -49,6 +49,6 @@ Please don't worry about documenting the below, but the kind of topics we tend t
 
 * how the front-end team & back-end team will collaborate in an agile manner
 * ensuring the handling of payments is PCI compliant
-* how do we ensure adequate test coverage
+* how we would ensure adequate test coverage
 
 Good luck and look forward to catching up soon.
