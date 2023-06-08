@@ -26,8 +26,8 @@ How you present your approach is completely up to you, but please detail:
 * endpoints that will be created and the data they will return
 * the mechanism you would use for authentication (e.g. a software solution, or a solution that leverages cloud services)
 * the mechanism for handling payments (eg. a particular provider and how we would interface)
-* which database would be suitable and how it could be structured
-* how you might support and monitor the API
+* which database would be suitable and how the data could be structured
+* how you might monitor and maintain the API
 * CI/CD processes
 
 Even though TOG uses Azure, feel free to choose whichever cloud service, version control service and CI/CD platform you fancy for this task, we're mainly interested in seeing your approach.
