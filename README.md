@@ -45,7 +45,7 @@ We'll use the task as the basis of the next interview, hopefully it will feel mo
 * 15 mins any questions for us
 * 15 mins meet the rest of the team
 
-Please don't worry about documenting the below, but some of the topics we may discuss are:
+Please don't worry about documenting the below, but the kind of topics we tend to delve into include:
 
 * how the front-end team & back-end team will collaborate in an agile manner
 * ensuring the handling of payments is PCI compliant
